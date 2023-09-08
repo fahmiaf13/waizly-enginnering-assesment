@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import { Navbar, Footer } from "@/components";
+
 import React from "react";
 
 interface IDefaultLayout {
